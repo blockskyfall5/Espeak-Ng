@@ -194,4 +194,4 @@ This repository serves as the official landing page for eSpeak NG. The software 
 **Get the most recent version of eSpeak NG today!**
 
 ---
-**Last updated:** 2026-11-14 01:09:38 UTC
+**Last updated:** 2026-11-14 08:23:34 UTC
